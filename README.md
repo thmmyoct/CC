@@ -11,14 +11,12 @@
 <p>The API is built using node js and the express js framework.</p>
 
 <h2>Tools</h2>
-<p>
-- JavaScript
-- Node js
-- Framework : Express js
-- Firebase
-- Postman
-- Midtrans
-</p>
+<p>- JavaScript</p>
+<p>- Node js</p>
+<p>- Framework : Express js</p>
+<p>- Firebase</p>
+<p>- Postman</p>
+<p>- Midtrans</p>
 
 <h2>Cloud Architecture</h2>
 <p>TBA</p>
